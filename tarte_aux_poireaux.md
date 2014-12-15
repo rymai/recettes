@@ -7,7 +7,7 @@ Un plat onctueux et croustillant, idéal pour les enfants !
 - Pour 4 personnes
 - Difficulté: 2/5
 - Préparation: 1 heure
-- Cuisson: 25 minutes (thermostat 6/7, ≈180ºC/200ºC)
+- Cuisson: 25 minutes (≈180ºC / th. 6)
 
 ## Ingrédients
 
@@ -31,10 +31,10 @@ Optionnel:
 
 ## Préparation
 
-- Couper la partie verte des poireaux
-- Fendre les poireaux en 2 **pas jusqu'au bout**
-- Nettoyer les poireaux à l'eau pour enlever la terre
-- Couper les poireaux en morceaux de 0.5 cm
+- Couper la partie verte des poireaux.
+- Fendre les poireaux en 2 **pas jusqu'au bout**.
+- Nettoyer les poireaux à l'eau pour enlever la terre.
+- Couper les poireaux en morceaux de 0.5 cm.
 - Les mettre dans le fait-tout avec le cube de volaille émietté.
 - Faire fondre les poireaux (~10-20 minutes) à feu moyen: couvercle au début, puis retirer le couvercle pour qu'il ne reste pas d'eau à la fin. Note: Comme les poireaux rendent de l'eau en laissant à couvert, pas besoin de mettre d'huile. De plus cela permet de faire fondre le cube de bouillon sans rajouter de liquide !
 
