@@ -5,8 +5,8 @@ Best pizza dough ever!
 ## Fiche technique
 
 - Pour 4 pizzas
-- Difficulté: 2/5
-- Préparation: 1 heure
+- Difficulté: 3/5
+- Préparation: 30 minutes
 
 ## Ingrédients
 
