@@ -21,7 +21,7 @@ Un plat onctueux et croustillant, idéal pour les enfants !
 - 2 sucres
 - Sel, poivre
 
-Optionnel:
+Optionnel :
 
 - Herbes de provence
 
@@ -52,8 +52,12 @@ En parallèle :
 - Etaler la moutarde (environ deux cuillerées à soupe) sur le fond de façon à mettre une fine couche.
 - Couper de fines tranches de comté et les disposer côte à côte pour recouvrir la pâte.
 - Si la sauce n'a pas fini de mijoter, remettre la pâte au frais en attendant pour que la pâte soit froide en la mettant au four. Ainsi elle ne retombera pas sur les bords.
-
 - Recouvrir le comté avec la sauce tomate.
+
+## Cuisson
+
 - Laisser cuire 30 à 35 minutes au four.
+
+## Dégustation
 
 Bon appétit !
