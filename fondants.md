@@ -23,32 +23,36 @@ Mon dessert préféré (après le gâteau de Savoie bien sûr) !
 
 - 1 saladier
 - 1 casserole
-- 1 bol (pour le bain marie)
+- 1 fouet
 - 4 petits moules à fondants
 - 1 four
 
 ## Préparation
 
+### Dans la casserole
+
+- Faire fondre le chocolat
+- Ajouter le beurre quand le chocolat est presque fondu
+
 ### Dans le saladier
 
-- Casse les œufs
-- Ajoute le sucre
-- Mélange avec un fouet
-
-### Dans la casserole:
-
-- Couper le chocolat et le faire fondre au bain marie
-- Ajoute le beurre
-- Verser le chocolat dans le saladier
-- Incorpore la farine, le cacao, le lait
+- Casser les œufs
+- Ajouter le sucre
+- Mélanger avec un fouet
+- Verser le chocolat/beurre fondu dans le saladier
+- Incorporer la farine, le cacao, le lait
 - Remuer
 - Beurrer et fariner légèrement 4 petits moules
-- Mettre au congélateur pendant 1 heure au moins.
+- Mettre au frigo pendant 1 heure au moins
 
-### Cuisson:
+### Cuisson
 
 - Préchauffer le four à 210°C (Th 7)
 - Faire cuire pendant 8 à 10 minutes
+
+## Dégustation
+
+Parfait avec une bonne crème anglaise !
 
 ## Remerciements
 
