@@ -43,6 +43,12 @@ En parallèle :
 - Pate brisée: cuire à blanc durant 10 minutes (la piquer avec une fourchette et recouvrir de papier cuisson avec des haricots secs/cailloux/pates) à 180ºC (th. 6).
 
 - Attendre que les poireaux refroidissent puis mélanger la crème, les oeufs, le fromage, la noix de muscade (+ poivre et sel si besoin).
-- Verser la préparation sur la pâte et laisser cuire 25 minutes au four.
+- Verser la préparation sur la pâte.
+
+## Cuisson
+
+- Laisser cuire 25 minutes au four.
+
+## Dégustation
 
 Bon appétit !
