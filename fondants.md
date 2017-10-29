@@ -45,7 +45,7 @@ Mon dessert préféré (après le gâteau de Savoie bien sûr) !
 - Beurrer et fariner légèrement 4 petits moules
 - Mettre au frigo pendant 1 heure au moins
 
-### Cuisson
+## Cuisson
 
 - Préchauffer le four à 210°C (Th 7)
 - Faire cuire pendant 8 à 10 minutes
