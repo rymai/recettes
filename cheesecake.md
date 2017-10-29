@@ -57,12 +57,12 @@ Le dessert *fat* ultime !
 
 - Verser la garniture sur la croûte
 
-### Cuisson
+## Cuisson
 
 - Préchauffer le four à 180°C (Th 6)
 - Faire cuire pendant 50 à 55 minutes (il faut que la garniture soit ferme au toucher
 
-### Dégustation
+## Dégustation
 
 Laisser refroidir le cheesecake avant de la manger, il est même meilleur après une nuit au frigo ! :)
 
